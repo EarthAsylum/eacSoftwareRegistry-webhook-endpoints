@@ -11,7 +11,7 @@ Author:             [EarthAsylum Consulting](https://www.earthasylum.com)
 Stable tag:         1.1.6  
 Last Updated:       20-Jul-2026  
 Requires at least:  5.8  
-Tested up to:       7.0  
+Tested up to:       7.1  
 Requires PHP:       8.1  
 Contributors:       [kevinburkholder](https://profiles.wordpress.org/kevinburkholder)  
 Donate link:        https://github.com/sponsors/EarthAsylum  
