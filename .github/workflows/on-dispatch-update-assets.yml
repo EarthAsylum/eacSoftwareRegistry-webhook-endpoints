@@ -13,3 +13,4 @@ jobs:
     uses: EarthAsylum/Workflows/.github/workflows/update-wp-assets.yml@main
     with:
       wp_assets: '.wp-assets'
+    secrets: inherit
