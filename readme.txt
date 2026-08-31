@@ -1,8 +1,8 @@
 === {eac}SoftwareRegistry WooCommerce Webhook Endpoints  ===
 Plugin URI:         https://swregistry.earthasylum.com/webhooks-for-woocommerce/
 Author:             [EarthAsylum Consulting](https://www.earthasylum.com)
-Stable tag:         1.1.6
-Last Updated:       20-Jul-2026
+Stable tag:         1.1.7
+Last Updated:       30-Aug-2026
 Requires at least:  5.8
 Tested up to:       7.1
 Requires PHP:       8.1
@@ -12,7 +12,7 @@ License:            GPLv3 or later
 License URI:        https://www.gnu.org/licenses/gpl.html
 Tags:               software registration, software registry, software license, WooCommerce, Webhooks, subscriptions, {eac}SoftwareRegistry
 WordPress URI:      https://wordpress.org/plugins/eacsoftwareregistry-webhook-endpoints
-Github URI:         https://github.com/EarthAsylum/eacsoftwareregistry-webhook-endpoints
+Github URI:         https://github.com/EarthAsylum/eacSoftwaReregistry-webhook-endpoints
 
 Enables the use of WooCommerce Webhooks to create or update a software registration in {eac}SoftwareRegistry when an order or subscription is created or updated.
 
@@ -221,6 +221,14 @@ You should receive a copy of the GNU General Public License along with this prog
 
 
 == Changelog ==
+
+= Version 1.1.7 – August 30, 2026 =
+
++	Compatible with WordPress 7.1.
++	Admin notification on missing required plugin.
++	Aesthetic/Nonstructural changes...
+	+	WP plugins page links.
+	+	Plugin DocBlocks, readme headers, etc.
 
 = Version 1.1.6 – July 20, 2026 =
 

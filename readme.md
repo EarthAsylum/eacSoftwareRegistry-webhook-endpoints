@@ -8,8 +8,8 @@
 
 Plugin URI:         https://swregistry.earthasylum.com/webhooks-for-woocommerce/  
 Author:             [EarthAsylum Consulting](https://www.earthasylum.com)  
-Stable tag:         1.1.6  
-Last Updated:       20-Jul-2026  
+Stable tag:         1.1.7  
+Last Updated:       30-Aug-2026  
 Requires at least:  5.8  
 Tested up to:       7.1  
 Requires PHP:       8.1  
@@ -19,7 +19,7 @@ License:            GPLv3 or later
 License URI:        https://www.gnu.org/licenses/gpl.html  
 Tags:               software registration, software registry, software license, WooCommerce, Webhooks, subscriptions, {eac}SoftwareRegistry  
 WordPress URI:      https://wordpress.org/plugins/eacsoftwareregistry-webhook-endpoints  
-Github URI:         https://github.com/EarthAsylum/eacsoftwareregistry-webhook-endpoints  
+Github URI:         https://github.com/EarthAsylum/eacSoftwaReregistry-webhook-endpoints  
 
 </details>
 
